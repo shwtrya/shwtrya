@@ -12,7 +12,7 @@
 
 ### About Me
 
- - 👨‍🦱 My name is `Shawava`
+ - 👨‍🦱 My name is `Shawava Tritya`
  - 🏠 Live in `Bogor, Jawa Barat`
  - 👶🏻 Born in `Jawa Barat, Indonesia`
  - 🏫 School in `SMKN 1 Cileungsi`
