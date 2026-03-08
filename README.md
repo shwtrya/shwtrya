@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/shwtrya">
     <img
-      src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Student+%7C+Tinkerer+%7C+Future+Developer"
+      src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines= Student+%7C+Tinkerer+%7C+Future+Developer"
       alt="Typing SVG"
     />
   </a>
