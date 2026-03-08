@@ -3,27 +3,45 @@
 
 <p align="center">
   <a href="https://github.com/shwtrya">
-    <img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Student+%7C+Tinkerer+%7C+Future+Developer" alt="Typing SVG" />
+    <img
+      src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Student+%7C+Tinkerer+%7C+Future+Developer"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
 <p align="center">
-  <b>Learning to build things on the internet, one commit at a time.</b>
+  <b>Learning to build useful things on the internet, one commit at a time.</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shwtrya?tab=followers">
+    <img src="https://img.shields.io/github/followers/shwtrya?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=shwtrya&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👤 About Me
 
-- 👨‍🦱 Name: `Shawava Tritya`
-- 🏠 Based in: `Bogor, Jawa Barat, Indonesia`
-- 👶🏻 Born in: `Jawa Barat, Indonesia`
-- 🏫 School: `SMKN 1 Cileungsi`
-- 🌸 Idol: `Cristiano Ronaldo`
-- 🌐 Languages:
-  - 🇮🇩 Indonesian
-  - 😄 Sundanese (casual)
-  - 🗣️ A bit of English
+```text
+Name     : Shawava Tritya
+From     : Bogor, Jawa Barat, Indonesia
+School   : SMKN 1 Cileungsi
+Idol     : Cristiano Ronaldo
+```
+
+- 👨‍🎓 Vocational high school student who likes to tinker with servers and code  
+- 🐧 Comfortable playing around on Linux & the terminal  
+- 🧠 Currently learning how to turn ideas into real projects
+
+### 🌐 Languages
+
+- 🇮🇩 Indonesian (native)  
+- 😄 Sundanese (casual)  
+- 🗣️ A bit of English
 
 ---
 
@@ -31,22 +49,31 @@
 
 Right now I'm focusing on:
 
-- 🐧 Linux & basic server / VPS operations  
-- 🧩 Scripting & automation (CLI tools, small utilities)  
-- 🤖 Bots & agents (automation around messaging / workflows)  
-- ☁️ Basic deployment (Vercel, GitHub, simple services)
+- 🐧 Linux & basic server / VPS administration  
+- 🧩 Scripting & automation (small tools, helpers, bots)  
+- 🤖 Chatbots & agents to automate workflows  
+- ☁️ Deploying simple apps (GitHub, Vercel, VPS)
 
-> Future me note: when you start using a real stack (Node.js, Python, Go, etc.), list it here with logos or badges.
+> Future me: when you start using stacks like Node.js, Python, Go, etc., list them here with badges.
 
 ---
 
-## 📦 Tech & Tools
+## 🧰 Tech & Tools
 
 *(update this as your skills grow)*
 
-- OS: Linux (Ubuntu)
-- Tools: `git`, `tmux`, `ffmpeg`, GitHub CLI (`gh`)
-- Platforms: GitHub, Vercel (soon™), VPS
+**Daily tools**
+
+- OS: Ubuntu Linux  
+- Terminal: `bash`, `tmux`  
+- Version control: `git`, GitHub  
+- Others: `ffmpeg`, GitHub CLI (`gh`)
+
+**Things I want to explore next**
+
+- JavaScript / TypeScript  
+- Backend basics (API, REST, etc.)  
+- Databases (PostgreSQL, SQLite, etc.)
 
 ---
 
@@ -54,34 +81,44 @@ Right now I'm focusing on:
 
 <p align="center">
   <a href="https://github.com/shwtrya">
-    <img src="https://github-readme-stats.vercel.app/api?username=shwtrya&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=shwtrya&show_icons=true&theme=tokyonight&hide_border=true"
+      alt="GitHub Stats"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/shwtrya">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwtrya&theme=tokyonight" alt="Streak Stats" />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=shwtrya&theme=tokyonight&hide_border=true"
+      alt="Streak Stats"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/shwtrya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwtrya&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwtrya&layout=compact&theme=tokyonight&hide_border=true"
+      alt="Top Languages"
+    />
   </a>
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects & Goals
 
-Right now this profile is just warming up. Here are the kind of projects I want to build:
+Right now this profile is still early stage.  
+These are the kind of things I want to build:
 
-- [ ] Simple CLI tool to automate something on my VPS  
-- [ ] Bot (chat / WhatsApp / Telegram) that does something useful  
-- [ ] Small web project deployed on Vercel  
-- [ ] First open-source contribution
+- [ ] Simple CLI tool to help manage my VPS  
+- [ ] Bot (WhatsApp / Telegram / Discord) that actually solves a problem  
+- [ ] Small web app deployed on Vercel  
+- [ ] My first open-source contribution
 
-Later, turn this into real links, for example:
+Later, turn these into real links, for example:
 
 ```markdown
 - [x] VPS helper script: [vps-tools](https://github.com/shwtrya/vps-tools)
@@ -90,22 +127,17 @@ Later, turn this into real links, for example:
 
 ---
 
-## 📈 Profile Visitors
-
-> *Number of visitors*
-
-- **Visitor GitHub @Shwtrya**
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=shwtrya&color=blue)
-
----
-
 ## ❤️ Support
 
 If you want to support my journey:
 
 <a href="https://saweria.co/donate" target="_blank">
-  <img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For ShwvaGanz" height="30" width="120">
+  <img
+    src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png"
+    alt="Donate For ShwvaGanz"
+    height="30"
+    width="120"
+  >
 </a>
 
 ---
