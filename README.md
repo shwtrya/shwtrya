@@ -82,7 +82,7 @@ Right now I'm focusing on:
 <p align="center">
   <a href="https://github.com/shwtrya">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=shwtrya&show_icons=true&theme=tokyonight&hide_border=true"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=shwtrya&show_icons=true&theme=tokyonight&hide_border=true"
       alt="GitHub Stats"
     />
   </a>
@@ -100,7 +100,7 @@ Right now I'm focusing on:
 <p align="center">
   <a href="https://github.com/shwtrya">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwtrya&layout=compact&theme=tokyonight&hide_border=true"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shwtrya&layout=compact&theme=tokyonight&hide_border=true"
       alt="Top Languages"
     />
   </a>
