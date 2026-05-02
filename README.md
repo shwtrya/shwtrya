@@ -3,9 +3,9 @@
 
 <p align="center">
   <a href="https://github.com/shwtrya">
-    <img
-      src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=+Student+%7C+Tinkerer+%7C+Future+Developer"
-      alt="Typing SVG"
+   <img
+  src="https://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&size=22&height=50&pause=1000&lines=Student+%7C+Tinkerer;Future+Developer;Always+Learning"
+  alt="Typing SVG"
     />
   </a>
 </p>
