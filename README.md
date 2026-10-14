@@ -15,7 +15,9 @@
       <img src="https://img.shields.io/github/followers/shwtrya?label=Followers&style=for-the-badge&color=6366f1&logo=github" alt="GitHub Followers" />
     </a>
     &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=shwtrya&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <a href="https://hits.sh/github.com/shwtrya/">
+      <img src="https://hits.sh/github.com/shwtrya.svg?extraCount=231&color=a855f7&labelColor=0f172a&style=for-the-badge&label=VISITORS" alt="Profile Views" />
+    </a>
   </p>
 </div>
 
